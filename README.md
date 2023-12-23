@@ -4,7 +4,7 @@ Made this for my CS26 (Software Development Fundamentals or Object Oriented Prog
 I could really have done a lot with the Statistics section like adding timeframes and graphs, but I was tired and there is only a few days left before the deadline.
 Made using the java swing library. For the database, I used SQL.
 Probably my biggest project at this time.
-My GUI and frontend skills aren't that good since I prefer working on the backend. But I'm trying to improve my frontend skills.
+My GUI and frontend skills aren't that good since I prefer working on the backend, but I'm trying to improve my frontend skills.
 Got a score of 95 for this project.
 
 To run:
